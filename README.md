@@ -5,6 +5,7 @@ Group 7 web dev
 4. Peter Malenga
 5. Chikondi Phiri
 6. Brain Lozani
+7. Victor Muhango
 
 
 1. GROUP PORTAL SITE (participants)
