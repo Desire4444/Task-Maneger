@@ -6,8 +6,10 @@ Group 7 web dev
 5. Chikondi Phiri
 6. Brain Lozani
 7. Victor Muhango
-
-
+***************************************
+***************************************
+***************************************
+***************************************
 1. GROUP PORTAL SITE (participants)
 *Theophilus Miri - Doing css and partly javascript
 *Favour Harawa - Doing all html
