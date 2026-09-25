@@ -10,20 +10,19 @@ Group 7 web dev
 ***************************************
 ***************************************
 ***************************************
-1. GROUP PORTAL SITE (participants)
-*Theophilus Miri - Doing css and partly javascript
-*Favour Harawa - Doing all html
-*Peter Malenga - Writing and debugging Javascript
+#GROUP PORTAL SITE (participants)
+1. Theophilus Miri - Doing css and partly javascript
+2. Favour Harawa - Doing all html
+3. Peter Malenga - Writing and debugging Javascript
+4. Victor - Writing javascript
 
-2. SQL AND PHP SERVER SIDE (participants)
-*Theophilus Miri - dealing with the .php files
-*Ekari zgambo - Launching and managing XAMPP
-*Brain Lozani - html with php
-*
+#SQL AND PHP SERVER SIDE (participants)
+1. Theophilus Miri - dealing with the .php files
+2. Ekari zgambo - Launching and managing XAMPP
+3. Favour Harawa - Made the form in html
 
-
-
-4. TASK MANAGER REDESIGNED (participants)
-*Theophilus Miri - Supervising
-*Chikondi Phiri - Doing all html
-*
+#TASK MANAGER REDESIGNED (participants)
+1. Theophilus Miri - Supervising
+2. Chikondi Phiri - Doing all html
+3. Brain Lozani - html with php
+4. 
